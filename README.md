@@ -7,4 +7,4 @@
 
 
 ### Let's Go My Profile
-[![Blog Badge](https://img.shields.io/badge/-Profile-92a8d1?logo=Supabase&logoColor=white&link=https://velog.io/@vov3616)](https://velog.io/@vov3616)
+[![Blog Badge](https://img.shields.io/badge/-Photofolio-92a8d1?logo=Supabase&logoColor=white&link=https://github.com/choi-woo-sung/choi-woo-sung/blob/main/potofolio.md)](https://github.com/choi-woo-sung/choi-woo-sung/blob/main/potofolio.md)
