@@ -63,7 +63,7 @@
 ### [체크 모바일 IC](https://play.google.com/store/apps/details?id=kr.co.kcp.checkmobile.ic&hl=ko&gl=US)
 
   - 기간
-    - 2021-06-11 ~ ing
+    - 2022-06-11 ~ ing
 
 - 역할<br>결제 연동 앱이며 개발과 유지보수를 맡았습니다.
 
@@ -77,7 +77,7 @@
 ### [배달특급 사장님](https://play.google.com/store/apps/details?id=kr.co.kcp.smartorder&hl=ko&gl=US)
 
   - 기간
-    - 2021-04-11 ~ ing
+    - 2022-04-11 ~ ing
 
 - 역할<br> 개발 및 유지 보수를 맡았습니다.
 
@@ -197,6 +197,9 @@
 
 
 ## 🚲 Activities
+
+### [UNITHON 9TH](https://velog.io/@vov3616/UNITHON-9TH-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
+- 기간 2022-09-02 ~ 2022-09-04
 
 
 ### [GDG 썸머 해커톤](https://velog.io/@vov3616/GDG-%EC%8D%B8%EB%A8%B8-%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%98%A4%ED%94%84%ED%8B%B0%EB%B2%8C-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
