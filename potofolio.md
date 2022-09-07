@@ -12,7 +12,7 @@
 
 ## 😘 Introduce
 ---
- - **Android Weekly를 꾸준히 보는 최신트랜드에 맞는 개발자**
+ - **Android Weekly를 꾸준히 보는, 트랜드에 맞는 개발자**
 <br>꾸준한 **개발참여**와 **블로깅**, **Android Weekly**, **Kotlin weekly**을 확인하면서 뒤쳐지지 않는 개발자가 되기 위해 노력중입니다.
  <Br>
 
@@ -198,6 +198,9 @@
 
 ## 🚲 Activities
 
+###  NHN FORWARD 2022 Speaker
+- 기간 2022-11-02 ~ 2022-11-02
+
 ### [UNITHON 9TH](https://velog.io/@vov3616/UNITHON-9TH-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
 - 기간 2022-09-02 ~ 2022-09-04
 
@@ -215,12 +218,8 @@
  - 기간 : 2021.11.01 ~ 2021.11.31
 
 
+ ## 🌸 Engineering BLOG
 
 
-## 👑 Prize
-
-### 케이웍스 사내 아이디어 경진 대회 1등
-  - 사유 : 사내 경진대회에서 우수한 아이디어와 기획을 보여주었으므로 상을 획득함.
-
-### 대덕인재개발원 인공지능 기반 SW엔지니어링 16기 작품 최우수상
-  - 사유 : 최종프로젝트때 발표한 작품이 최우수상을 받음.
+ ### [Android Architecture에 관한 이야기](https://velog.io/@vov3616/UNITHON-9TH-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0)
+ - 기간 2022-11-02 ~ 2022-11-02
