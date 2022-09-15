@@ -95,6 +95,11 @@
   - **배달 도메인 습득**<br>
 일상에 친숙해서 쉽게만 프로세스가 단순해 보였던 배달앱이 정말 많은 비즈니스 로직을 가진다는것을 배웠습니다.
 
+ - **Android Clean Architecture 적용**<br>
+API에 변경점이 많았던 앱이라, Uncle BoB의 클린 아키텍처를 적용하여 리펙토링하였습니다.
+또한 테스트 케이스를 작성하면서 클린 아키텍처의 이점을 알수 있었습니다.
+  [클린 아키텍처에 대한 정리](https://velog.io/@vov3616/%EC%9A%94%EC%A6%98-%ED%95%AB%ED%95%9C-Clean-Architecture-%EC%99%9C-%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC)
+
  - **RecyclerView에 달린 타이머가 고장났다! 왜이러지?**<br>
  기존 앱에는 Nested ScrollView 안에 RecyclerView가 있어서 View를 재활용하지 않았었는데, 그걸 제가 걷어내자 문제가 생겼었습니다.<Br>
  Item 안에는 타이머를 사용했었는데, 뷰 재활용이 일어나면서 저번 타이머가 같이 동작하는 이슈였습니다.<Br>
